@@ -74,6 +74,7 @@ span{
 .attribution{
     align-items: center;
     position: fixed;
+    color: black;
     bottom: 0;
 }
 
